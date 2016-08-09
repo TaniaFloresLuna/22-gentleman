@@ -1,0 +1,12 @@
+/*Medida de imágen articulo*/
+.mediano{
+	width: 650px;
+	height: 600px;
+	margin-left: -10%;
+}
+/*Imágenes portafolio*/
+.estandar{
+	width: 570px;
+	height: 450px;
+	margin-left: -10%;
+}

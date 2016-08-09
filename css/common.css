@@ -1,0 +1,23 @@
+/*Encabezado*/
+.bg-bkl{
+	background-color: black;
+	width: 1340px;
+	margin-left: -9%;
+}
+.top{
+	height: 70px;
+}
+/*Listas de Menú y sociales*/
+.mn-lg{
+	margin-left: 45%;
+}
+li{
+	display: inline-block;
+	margin-left: 2%;
+}
+button{
+	width: 30%;
+	height: 35px;
+	margin: 10% 35%;
+	border-radius: 10px;
+}
