@@ -10,3 +10,31 @@
 	height: 450px;
 	margin-left: -10%;
 }
+/*Texto rojo*/
+.crl-rd{
+	color: red;
+}
+/*Iconos media*/
+a, a:visited {
+    color: #003569;
+    text-decoration: none;
+}
+._im3et {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+    color: transparent;
+}
+._soakw {
+    display: block;
+    overflow: hidden;
+    text-indent: 110%;
+    white-space: nowrap;
+}
+.coreSpriteDesktopNavActivity {
+    background-image: url(//instagramstatic-a.akamaihd.net/h1/sprites/core/f60ff7.png);
+    background-repeat: no-repeat;
+    background-position: -610px -585px;
+    height: 24px;
+    width: 24px;
+}
