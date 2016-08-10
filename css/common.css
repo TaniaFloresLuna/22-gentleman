@@ -24,9 +24,18 @@ button{
 }
 /*Píe*/
 footer{
-	height: 300px;
+	height: 450px;
 
 }
 .mini-icon{
 
+}
+/*Decoration*/
+a{
+	text-decoration: none;
+}
+hr{
+	width: 80%;
+	height: 1px;
+	margin: 2% 9%;
 }

@@ -15,26 +15,21 @@
 	color: red;
 }
 /*Iconos media*/
-a, a:visited {
-    color: #003569;
-    text-decoration: none;
+.icono{
+	height: 12px;
+	width: 12px;
+	display: inline-block;	
 }
-._im3et {
-    background-color: transparent;
-    border: none;
-    cursor: pointer;
-    color: transparent;
+.mini-icon{
+	height: 30px;
+	width: 30px;
+	border-radius: 100%;
+	border: 1px white dashed;
 }
-._soakw {
-    display: block;
-    overflow: hidden;
-    text-indent: 110%;
-    white-space: nowrap;
+.big{
+	width: 70px;
+	height: 70px;
 }
-.coreSpriteDesktopNavActivity {
-    background-image: url(//instagramstatic-a.akamaihd.net/h1/sprites/core/f60ff7.png);
-    background-repeat: no-repeat;
-    background-position: -610px -585px;
-    height: 24px;
-    width: 24px;
+.comillas{
+	margin-left: 5%;
 }
